@@ -19,7 +19,7 @@
     margin: 6% auto;
     padding: 5px;
     border: 1px solid black;
-    box-shadow: 0 0 20px 10px rgb(229, 17, 88);
+    box-shadow: 0 0 20px 10px rgb(229, 17, 87);
     background:linear-gradient(rgba(30,50,40,0.8),rgba(30,50,70,0.8));
     overflow: hidden;
 }
